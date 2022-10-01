@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @leticiaholem 
-- 👀 I’m interested in testando
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...  
-- 📫 How to reach me ...
+- oi, sou @leticiaholem 
+- 15y
+- 17/08/2007
+- carajá, Jesuitas PR
+- livro (A Seleção)
 
 <!---
 leticiaholem/leticiaholem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
